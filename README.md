@@ -32,7 +32,9 @@
   <a href="https://www.linkedin.com/in/diogo-nogueira-307a1a278/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
+  <a href="diogo_sn04@hotmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="microsoft-outlook logo"  />
+  </a>
 </div>
 
 ###
